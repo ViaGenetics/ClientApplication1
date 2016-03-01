@@ -10,7 +10,7 @@ Users are going to be able to track each sample progress via web application.
 
 These are the steps involved in the process:
 - Create an Upload Request
-- Deploy client app, if needed - this is a one time step. Once a client app was deployed can be used to handle for future data transfers if the data is available form the same server 
+- Deploy client app, if needed - this is a one time step. Once a client app was deployed can be used to handle future data transfers if the data is available form the same server 
 - Provide Clinical information
 - Provide Genomic information
 - Review and submit your order
