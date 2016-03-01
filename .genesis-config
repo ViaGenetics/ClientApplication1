@@ -1,0 +1,17 @@
+#Genesis client id
+client_id=
+
+#Private key
+private_key=
+
+#Report critical issues (default to 1) - set to 0 to turn off this functionality
+report_critical_issues=1
+
+#API's url
+api_url=https://vgapistaging.azurewebsites.net/api/CLI/Client/
+
+#Idle time in seconds
+sleep_time=15
+
+#Maximum parallel uploads
+max_processes=2
