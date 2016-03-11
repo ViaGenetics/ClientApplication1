@@ -21,6 +21,8 @@ You will recieve and email once your request has being approved.
 
 For instructions go to our Wiki page  [Deployment instructions](https://github.com/ViaGenetics/GenesisClientApp/wiki/Deployment-instructions) 
 
+Note: The configuation file points to staging environment. Change to Production once it is tested and ready to go live.
+
 
 ##How to operate
 
