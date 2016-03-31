@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 import subprocess, sys, logging, os
 from Genesis.GenesisClientCoordinator import GenesisClientCoordinator as GenesisClientCoordinator 
 
